@@ -1,5 +1,6 @@
 <?php
 declare(strict_types=1);
+use Source\User;
 
 class UserTest extends \PHPUnit\Framework\TestCase
 {
